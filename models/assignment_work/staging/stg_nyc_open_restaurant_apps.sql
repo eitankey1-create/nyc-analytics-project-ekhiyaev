@@ -19,7 +19,10 @@ cleaned AS (
            roadway_dimensions_length,
            roadway_dimensions_width,
            roadway_dimensions_area,
-           borough
+           borough,
+           business_address,
+           latitude,
+           longitude
 
        ),
 
