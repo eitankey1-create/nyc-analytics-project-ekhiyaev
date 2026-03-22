@@ -18,7 +18,8 @@ cleaned AS (
            sidewalk_dimensions_area,
            roadway_dimensions_length,
            roadway_dimensions_width,
-           roadway_dimensions_area
+           roadway_dimensions_area,
+           borough
 
        ),
 
